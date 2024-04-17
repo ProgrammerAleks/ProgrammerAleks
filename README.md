@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ProgrammerAleks
-- 👀 I’m interested using programming to design systems that make life easier.
-- 🌱 I’m currently learning Java & C++.
+- 👀 Programming as a hobby. Some of my personal projects are here.
+- 🌱 
 - 📫 You can reach me at <a href="mailto:aleksstinchcomb@gmail.com" target="_blank" rel="noopener noreferrer">`aleksstinchcomb@gmail.com`</a>
 
 <!---
